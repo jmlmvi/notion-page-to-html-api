@@ -2,7 +2,8 @@
 
 # notion-page-to-html-api
 
-Vercel API wrapper to [notion-page-to-html library](https://github.com/asnunes/notion-page-to-html). It converts public notion pages to html.
+Vercel API wrapper to [notion-page-to-html library](https://github.com/jmlmvi/notion-page-to-html). It converts public notion pages to html.
+See licence for credit
 
 ## Supported features
 

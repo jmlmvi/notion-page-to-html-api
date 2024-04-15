@@ -28,7 +28,7 @@
     "typescript": "^4.0.5",
     "vercel": "^20.1.2",
     "prettier": "^2.7.1",
-    "highlight.js": "^11.9.0"  // Vérifie la version actuelle sur https://www.npmjs.com/package/highlight.js
+    "highlight.js": "^11.9.0"
 
   },
   "dependencies": {
